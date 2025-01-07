@@ -1,12 +1,12 @@
 -🔭 I’m currently working on E-commerce website.
 
--🌱 I’m currently learning javascript and  java.
+-🌱 I’m currently learning nodejs.
 
--👯 I’m looking to collaborate on Html, CSS ,javascript , bootstrap.
+-👯 I’m looking to collaborate on Html, CSS ,javascript , reactJs , Bootstrap,Talwind Css.
 
--🤝 I’m looking for help with javascript.
+-🤝 I’m looking for help with nodejs.
 
--💬 Ask me about html ,css ,javascript and bootstrap.
+-💬 Ask me about html ,css ,javascript ,reactj, bootstrap and Talwind CSS.
 
 📫 How to reach me iamsujeet46@gmail.com.
 <!---
